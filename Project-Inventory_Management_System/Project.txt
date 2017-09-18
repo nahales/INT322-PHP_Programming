@@ -1,0 +1,11 @@
+INVENTORY MANAGEMENT SYSTEM in PHP 
+
+• Created select parts of a web-based inventory management system, such as might be used as part of an online store
+ 
+• Implemented the PHP code in three main programs:
+
+	1. add (validates the input data and adds to database)
+	2. delete (If is not already deleted, deletes its record in database) 
+	3. view (displays all records in database based on the searched specifications, in a tabular format)
+
+

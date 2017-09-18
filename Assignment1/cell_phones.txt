@@ -1,0 +1,13 @@
+Apple , iPhone7 , IOS7 , 1000.00
+Apple , iPhone7 plus , IOS7 , 1200.00
+Apple , iPhone6s , IOS6 , 700.00
+Apple , iPhone6s Plus , IOS6 , 800.00
+Apple , iPhone6 , IOS6 , 600.00
+Samsung , Galaxy S7 , Andriod , 800.00
+Samsung , Galaxy Note , Android , 600.00
+Microsoft , Lumia 950 , Windows , 800.00
+Microsoft , Lumia 830 , Windows , 400.00
+LG , Nexus5bk , Google Nexus , 200.00
+LG , G4 , Android , 300.00
+Blackberry , Prive , Android , 500.00
+Blackberry , Passport , Android , 300.00

@@ -1,0 +1,121 @@
+.container {
+		width:70%;
+		margin:0 auto;
+}
+		
+
+		
+table {
+		margin: 0 auto;
+		width: 69%;
+		border: 1px solid #CCC;
+		font-family: "Arial";			
+}
+
+th, td {
+		margin: 0 auto;
+		width: auto;
+		padding: 1em;
+		border-collapse: collapse;
+		border: 1px solid #CCC;
+		font-family: "Arial";
+}	
+
+form header {
+		background-color: black;
+		color: #00FA9A;
+		margin:-16px -16px;
+		padding:1px 25px;
+		border-radius: 1em 1em 0em 0em;	
+}
+
+form {
+		margin: 0 auto;
+		width: 95%;
+		padding: 1em;
+		border: 1px solid #CCC;
+		border-radius: 1em;
+		font-family: "Arial";	
+}
+
+        
+form div + div {
+		margin-top: 1em;
+}
+      
+.subDiv{
+		background-color: #e6e6e6;
+		padding: 1em;
+}
+	  
+form div {
+		font-family: "Arial";
+		font-size: 11pt;
+}
+		
+
+
+label {
+		display: inline-block;
+		width: 23.5%;
+		text-align: right;
+}
+
+        
+input[type=text] {
+		font: 1em sans-serif;
+		width: 40%;
+		height: 25px;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box; 
+		box-sizing: border-box;
+		border: 1px solid #999;
+		border-radius: .3em;
+		box-shadow:3px 3px 3px #b3b3b3 ;
+}
+		
+.required label:after { 
+		content:" *";
+		color:red; 
+} 
+        
+input:focus {
+		border-color: #000;
+}
+        
+input:focus {
+		border-color: #000;
+}
+
+.button {
+		padding-left: 35%;
+}
+		
+button {
+		width: 80px;
+		margin-left: 1em;
+		background-color: red;
+		color: white;
+		font-weight: bold;
+		padding: .5em 1em;
+		border: 1px solid #CCC;
+		border-radius: .5em;
+		font-family: "Arial";
+		font-size: 10pt;
+}
+
+
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
